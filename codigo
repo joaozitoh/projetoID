@@ -1,0 +1,14 @@
+Retangulo:
+
+retangulo.x = 100;
+retangulo.y = 80;
+retangulo.width = 40;
+retangulo.height = 90;
+retangulo.alpha = 0.5;
+
+Imagem:
+
+fla.x = 300;
+fla.y = 250;
+fla.width = 30;
+fla.height = 57;
